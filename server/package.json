@@ -1,0 +1,26 @@
+{
+  "name": "workout",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narofomsk/workout.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narofomsk/workout/issues"
+  },
+  "homepage": "https://github.com/narofomsk/workout#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "colors": "^1.4.0"
+  }
+}
